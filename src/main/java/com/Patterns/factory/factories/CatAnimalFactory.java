@@ -1,7 +1,7 @@
-package com.Patterns.Factory.factories;
+package com.Patterns.factory.factories;
 
-import com.Patterns.Factory.Animal;
-import com.Patterns.Factory.CatAnimal;
+import com.Patterns.factory.Animal;
+import com.Patterns.factory.CatAnimal;
 
 public class CatAnimalFactory extends AnimalFactory {
     @Override

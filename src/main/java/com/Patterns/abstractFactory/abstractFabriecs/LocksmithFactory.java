@@ -1,6 +1,6 @@
-package com.Patterns.Abstract_Factory.abstract_fabriecs;
+package com.Patterns.abstractFactory.abstractFabriecs;
 
-import com.Patterns.Abstract_Factory.*;
+import com.Patterns.abstractFactory.*;
 
 public class LocksmithFactory extends Abstract_Factory{
     @Override

@@ -1,4 +1,4 @@
-package com.Patterns.Factory;
+package com.Patterns.factory;
 
 public class CatAnimal extends Animal {
     public CatAnimal() {

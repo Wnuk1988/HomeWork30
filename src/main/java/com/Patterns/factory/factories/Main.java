@@ -1,6 +1,6 @@
-package com.Patterns.Factory.factories;
+package com.Patterns.factory.factories;
 
-import com.Patterns.Factory.Animal;
+import com.Patterns.factory.Animal;
 
 public class Main {
     public static void main(String[] args) {

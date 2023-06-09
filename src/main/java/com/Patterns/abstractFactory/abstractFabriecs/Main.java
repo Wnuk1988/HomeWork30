@@ -1,8 +1,8 @@
-package com.Patterns.Abstract_Factory.abstract_fabriecs;
+package com.Patterns.abstractFactory.abstractFabriecs;
 
-import com.Patterns.Abstract_Factory.Profession;
-import com.Patterns.Abstract_Factory.Skills;
-import com.Patterns.Abstract_Factory.WorkExperience;
+import com.Patterns.abstractFactory.Profession;
+import com.Patterns.abstractFactory.Skills;
+import com.Patterns.abstractFactory.WorkExperience;
 
 public class Main {
     public static void main(String[] args) {

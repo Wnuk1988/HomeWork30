@@ -1,4 +1,4 @@
-package com.Patterns.Abstract_Factory;
+package com.Patterns.abstractFactory;
 
 public abstract class WorkExperience {
     public int years;

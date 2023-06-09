@@ -1,11 +1,11 @@
 package com.Patterns.builder;
 
 public class Car {
-    public String brand;
-    public String bodyView;
-    public String engineType;
-    public int numberOfWheels;
-    public boolean fullSet;
+    private String brand;
+    private String bodyView;
+    private String engineType;
+    private int numberOfWheels;
+    private boolean fullSet;
 
     public static class BuilderCar{
         private Car car;

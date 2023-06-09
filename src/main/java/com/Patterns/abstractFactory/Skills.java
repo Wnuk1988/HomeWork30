@@ -1,4 +1,4 @@
-package com.Patterns.Abstract_Factory;
+package com.Patterns.abstractFactory;
 
 import java.util.ArrayList;
 import java.util.List;

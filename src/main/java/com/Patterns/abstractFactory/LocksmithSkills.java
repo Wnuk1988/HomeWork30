@@ -1,4 +1,4 @@
-package com.Patterns.Abstract_Factory;
+package com.Patterns.abstractFactory;
 
 public class LocksmithSkills extends Skills{
     public LocksmithSkills(){

@@ -1,4 +1,4 @@
-package com.Patterns.Abstract_Factory;
+package com.Patterns.abstractFactory;
 
 public class BuilderSkills extends Skills{
     public BuilderSkills(){

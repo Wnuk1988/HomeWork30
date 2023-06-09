@@ -1,4 +1,4 @@
-package com.Patterns.Abstract_Factory;
+package com.Patterns.abstractFactory;
 
 public class LocksmithWorkExperience extends WorkExperience{
     public LocksmithWorkExperience(){
